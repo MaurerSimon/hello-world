@@ -1,2 +1,5 @@
 # hello-world
-Hello world - the start of something new!
+
+Hi Humans!
+
+Simon here, I just trying this to do some new projects.
